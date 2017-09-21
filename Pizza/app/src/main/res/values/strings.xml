@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pizza</string>
+
+    <string-array name="pizza_name">
+        <item>Pizza 英文</item>
+        <item>pica 阿爾巴尼亞</item>
+        <item>披薩 中文</item>
+        <item>पिज़्ज़ा 北印度</item>
+        <item>пица 保加利亞</item>
+        <item>піца 白俄羅斯</item>
+        <item>ピザ 日本</item>
+        <item>pitsa 愛沙尼亞</item>
+        <item>ਪੀਜ਼ਾ 旁遮普文</item>
+        <item>பீஸ்ஸா 坦米爾文</item>
+        <item>피자 韓文</item>
+    </string-array>
+</resources>
